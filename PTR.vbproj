@@ -207,7 +207,6 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Back_up\index.html" />
-    <Content Include="HtmlPage1.html" />
     <Content Include="img\about1.jpg" />
     <Content Include="img\banner-bar1.png" />
     <Content Include="img\carousel-4.jpg" />
@@ -215,7 +214,7 @@
     <Content Include="img\GR.png" />
     <Content Include="img\insta.png" />
     <Content Include="index.aspx" />
-    <Content Include="index.html" />
+    <Content Include="Index.html" />
     <Content Include="js\disablerightclick.js" />
     <Content Include="js\Script.js" />
     <Content Include="lib\owlcarousel\LICENSE" />
